@@ -3,10 +3,7 @@ version: 1.0.0
 api: 5.0.0
 main: NoMobZone\Main
 author: VsrStudio, ZabuzHere
-commands:
-  nomob:
-    description: Set area to prevent mobs from spawning
-    permission: nomobzone.command
+
 permissions:
   nomobzone.command:
     default: op
